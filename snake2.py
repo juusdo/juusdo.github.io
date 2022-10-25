@@ -1,5 +1,4 @@
 # importing libraries
-from turtle import position
 import pygame
 import time
 import random
